@@ -1,66 +1,34 @@
-# JogoMario
+# jogoMario
 
 ## Descrição
+Projeto nassau tickets..
 
-Um pequeno jogo de mario no estilo do Chrome Dino, em que o mario fica pulando obstaculos (canos) infinitamente
+## Instalação
+cd frontend
+npm install
 
 ## Tecnologias
-
 -HTML
 -CSS
 -JAVASCRIPT
 
 ## Instalação
-
 cd frontend
 npm install
 
 ## Execução
-
 npm run dev
 
-## Integrantes
-# JogoMario
-
-## Descrição
-
-Um pequeno jogo de mario no estilo do Chrome Dino, em que o mario fica pulando obstaculos (canos) infinitamente
-
 ## Tecnologias
-
 -HTML
 -CSS
 -JAVASCRIPT
 
 ## Instalação
-
 cd frontend
 npm install
 
 ## Execução
-
-npm run dev
-
-## Integrantes
-# JogoMario
-
-## Descrição
-
-Um pequeno jogo de mario no estilo do Chrome Dino, em que o mario fica pulando obstaculos (canos) infinitamente
-
-## Tecnologias
-
--HTML
--CSS
--JAVASCRIPT
-
-## Instalação
-
-cd frontend
-npm install
-
-## Execução
-
 npm run dev
 
 ## Integrantes
